@@ -23,7 +23,6 @@ const midpoints = [
   [91.3384934113497,27.952633881591126]
 ]
 
-
 function MapboxMap() {
 
   // this is where the map instance will be stored after initialization
