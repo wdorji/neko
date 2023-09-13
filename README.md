@@ -1,4 +1,4 @@
-# nekor
+# Nekor
 
 Nekor is a web application designed to aid in providing hand-curated trail map with pictures and detailed descriptions to sacred and historical sites across the himalayan region.
 
