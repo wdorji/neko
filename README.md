@@ -1,6 +1,6 @@
-# Nekor
+# Neko
 
-Nekor is a web application designed to aid in providing hand-curated trail map with pictures and detailed descriptions to sacred and historical sites across the himalayan region.
+Neko is a web application designed to aid in providing hand-curated trail map with pictures and detailed descriptions to sacred and historical sites across the himalayan region.
 
 The web app was developed using next js framework and mainly uses react, mapbox, turfjs, and chakra ui.
 
