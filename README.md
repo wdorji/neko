@@ -1,6 +1,8 @@
 # Neko
 
-Neko is a web application designed to aid in providing hand-curated trail map with pictures and detailed descriptions to sacred and historical sites across the himalayan region.
+Neko is a web application designed to aid in providing hand-curated trail map with pictures and detailed descriptions to sacred and historical sites across the himalayan region. This project won the first ever Global Tibetan Professionals Network North America Hackathon and here is the [devpost submission](https://devpost.com/software/neko).
+
+Will deploy this application after fixing bugs with marker data.
 
 The web app was developed using next js framework and mainly uses react, mapbox, turfjs, and chakra ui.
 
@@ -12,4 +14,3 @@ The inspiration for Neko came about from our childhood memories of going on a Ne
 
 ![Landing Image](neko-app/readme/landing.png)
 Each Nekor has a chosen route to follow which tracks the users location on the route and updates a progress bar of the journey in terms of distance covered. There are also a list of checkpoints each which when clicked shows a picture of the site and its significance. The types of checkpoints are cultural landmarks, natural landmarks and recommended rest stops.
-
